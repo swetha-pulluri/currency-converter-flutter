@@ -24,7 +24,7 @@ https://github.com/swetha-pulluri/currency-converter-flutter
 ---
 ## 📱 Screenshots
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
 ![Converter](converter.png)
 
 ## 📌 What I Learned
