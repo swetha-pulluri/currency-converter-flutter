@@ -18,16 +18,14 @@ A modern Flutter app to convert currencies in real-time.
 - Provider
 - REST API
 
----
-
-## 📱 Screenshots
-![Dashboard](dashboard.png)
-![Converter](converter.png)
-
 ## 🔗 GitHub Repo
 https://github.com/swetha-pulluri/currency-converter-flutter
 
 ---
+## 📱 Screenshots
+
+![Dashboard](dashboard.png)
+![Converter](converter.png)
 
 ## 📌 What I Learned
 - State management using Provider
