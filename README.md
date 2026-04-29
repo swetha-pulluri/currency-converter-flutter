@@ -1,17 +1,36 @@
-# currency_converter_app
+# 💱 Currency Converter App (Flutter)
 
-A new Flutter project.
+A modern Flutter app to convert currencies in real-time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Real-time currency conversion
+- Currency swap functionality
+- Clean and modern UI
+- Provider state management
+- Conversion history
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠 Tech Stack
+- Flutter
+- Provider
+- REST API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Screenshots
+(Add screenshots here later)
+
+---
+
+## 🔗 GitHub Repo
+https://github.com/swetha-pulluri/currency-converter-flutter
+
+---
+
+## 📌 What I Learned
+- State management using Provider
+- Clean architecture (UI → Provider → Service → API)
+- Building scalable apps
