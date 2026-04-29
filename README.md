@@ -21,9 +21,8 @@ A modern Flutter app to convert currencies in real-time.
 ---
 
 ## 📱 Screenshots
-(Add screenshots here later)
-
----
+![Dashboard](dashboard.png)
+![Converter](converter.png)
 
 ## 🔗 GitHub Repo
 https://github.com/swetha-pulluri/currency-converter-flutter
